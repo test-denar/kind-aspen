@@ -6,7 +6,7 @@ sections:
     section_id: hero
     title: >-
       This is an Award Winning Agency Based in San Francisco and Focusing on
-      Digital, Identity
+      Digital
     content: >
 
 
