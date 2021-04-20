@@ -4,9 +4,7 @@ hide_title: true
 sections:
   - type: hero_section
     section_id: hero
-    title: >-
-      This is an Award Winning Agency Based in San Francisco and Focusing on
-      Digital
+    title: This is an Award Winning Agency Based in San Francisco and Focusing \
     content: >
 
 
